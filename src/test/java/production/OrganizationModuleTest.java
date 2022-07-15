@@ -4,12 +4,12 @@ import org.testng.annotations.Test;
 
 public class OrganizationModuleTest {
 	@Test
-	public void createContactTest() {
-		System.out.println("createContactTest executed");
+	public void createOrgTest() {
+		System.out.println("createOrgTest executed");
 	}
 	@Test
-	public void createOrganizationTest() {
-		System.out.println("createOrganizationTest executed");
+	public void createOrganizationAndDeleteTest() {
+		System.out.println("createOrganizationAndDeleteTest executed");
 	}
 		}
 
